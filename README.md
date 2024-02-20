@@ -6,7 +6,7 @@
 3. 요약한 글을 input으로 받아 음성으로 출력
 
 ## 사용한 AI 기술
-1. OCR+Summarize는 GPT4기술을 이용
+1. OCR+Summarize는 google의 Gemini 기술을 이용
 2. TTS는 ~~ 기술 이용
 
 ## OCR+Summarize 사용방법
