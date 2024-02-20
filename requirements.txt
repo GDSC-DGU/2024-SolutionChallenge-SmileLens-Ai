@@ -1,0 +1,8 @@
+python >= 3.7
+pip install openai
+
+[코드 돌리려면 필요한 것]
+- gpt 4 api key
+- max token 설정 필요
+    - token의 수에 따라서 출력되는 글자수가 달라짐
+    - 금액 또한 마찬가지임
