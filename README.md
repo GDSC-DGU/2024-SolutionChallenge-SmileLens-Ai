@@ -11,4 +11,5 @@
 
 ## OCR+Summarize 사용방법
 gpt4모델 사용방법
-1.
+1. Get OpenAI Api Key 
+2. Run gemini_fianl.ipynb
